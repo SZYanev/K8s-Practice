@@ -1,0 +1,1 @@
+{"jobID":"4d27faad-c491-21b8-c387-424148d9eb31","spec":{"type":"policy","cause":{"Message":"","User":"StoyanYanev \u003c34246716+SZYanev@users.noreply.github.com\u003e"},"spec":{"default:deployment/nginx":{"add":{},"remove":{"automated":"true"}}}},"result":null}
